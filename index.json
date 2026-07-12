@@ -1,0 +1,756 @@
+{
+  "updated": "2026-07-12",
+  "total": 150,
+  "collections": [
+    {
+      "id": 1,
+      "name": "Koleksi 1",
+      "filename": "Koleksi 1 - SR.xlsx"
+    },
+    {
+      "id": 2,
+      "name": "Koleksi 2",
+      "filename": "Koleksi 2 - SR.xlsx"
+    },
+    {
+      "id": 3,
+      "name": "Koleksi 3",
+      "filename": "Koleksi 3 - SR.xlsx"
+    },
+    {
+      "id": 4,
+      "name": "Koleksi 4",
+      "filename": "Koleksi 4 - SR.xlsx"
+    },
+    {
+      "id": 5,
+      "name": "Koleksi 5",
+      "filename": "Koleksi 5 - SR.xlsx"
+    },
+    {
+      "id": 6,
+      "name": "Koleksi 6",
+      "filename": "Koleksi 6 - SR.xlsx"
+    },
+    {
+      "id": 7,
+      "name": "Koleksi 7",
+      "filename": "Koleksi 7 - SR.xlsx"
+    },
+    {
+      "id": 8,
+      "name": "Koleksi 8",
+      "filename": "Koleksi 8 - SR.xlsx"
+    },
+    {
+      "id": 9,
+      "name": "Koleksi 9",
+      "filename": "Koleksi 9 - SR.xlsx"
+    },
+    {
+      "id": 10,
+      "name": "Koleksi 10",
+      "filename": "Koleksi 10 - SR.xlsx"
+    },
+    {
+      "id": 11,
+      "name": "Koleksi 11",
+      "filename": "Koleksi 11 - SR.xlsx"
+    },
+    {
+      "id": 12,
+      "name": "Koleksi 12",
+      "filename": "Koleksi 12 - SR.xlsx"
+    },
+    {
+      "id": 13,
+      "name": "Koleksi 13",
+      "filename": "Koleksi 13 - SR.xlsx"
+    },
+    {
+      "id": 14,
+      "name": "Koleksi 14",
+      "filename": "Koleksi 14 - SR.xlsx"
+    },
+    {
+      "id": 15,
+      "name": "Koleksi 15",
+      "filename": "Koleksi 15 - SR.xlsx"
+    },
+    {
+      "id": 16,
+      "name": "Koleksi 16",
+      "filename": "Koleksi 16 - SR.xlsx"
+    },
+    {
+      "id": 17,
+      "name": "Koleksi 17",
+      "filename": "Koleksi 17 - SR.xlsx"
+    },
+    {
+      "id": 18,
+      "name": "Koleksi 18",
+      "filename": "Koleksi 18 - SR.xlsx"
+    },
+    {
+      "id": 19,
+      "name": "Koleksi 19",
+      "filename": "Koleksi 19 - SR.xlsx"
+    },
+    {
+      "id": 20,
+      "name": "Koleksi 20",
+      "filename": "Koleksi 20 - SR.xlsx"
+    },
+    {
+      "id": 21,
+      "name": "Koleksi 21",
+      "filename": "Koleksi 21 - SR.xlsx"
+    },
+    {
+      "id": 22,
+      "name": "Koleksi 22",
+      "filename": "Koleksi 22 - SR.xlsx"
+    },
+    {
+      "id": 23,
+      "name": "Koleksi 23",
+      "filename": "Koleksi 23 - SR.xlsx"
+    },
+    {
+      "id": 24,
+      "name": "Koleksi 24",
+      "filename": "Koleksi 24 - SR.xlsx"
+    },
+    {
+      "id": 25,
+      "name": "Koleksi 25",
+      "filename": "Koleksi 25 - SR.xlsx"
+    },
+    {
+      "id": 26,
+      "name": "Koleksi 26",
+      "filename": "Koleksi 26 - SR.xlsx"
+    },
+    {
+      "id": 27,
+      "name": "Koleksi 27",
+      "filename": "Koleksi 27 - SR.xlsx"
+    },
+    {
+      "id": 28,
+      "name": "Koleksi 28",
+      "filename": "Koleksi 28 - SR.xlsx"
+    },
+    {
+      "id": 29,
+      "name": "Koleksi 29",
+      "filename": "Koleksi 29 - SR.xlsx"
+    },
+    {
+      "id": 30,
+      "name": "Koleksi 30",
+      "filename": "Koleksi 30 - SR.xlsx"
+    },
+    {
+      "id": 31,
+      "name": "Koleksi 31",
+      "filename": "Koleksi 31 - SR.xlsx"
+    },
+    {
+      "id": 32,
+      "name": "Koleksi 32",
+      "filename": "Koleksi 32 - SR.xlsx"
+    },
+    {
+      "id": 33,
+      "name": "Koleksi 33",
+      "filename": "Koleksi 33 - SR.xlsx"
+    },
+    {
+      "id": 34,
+      "name": "Koleksi 34",
+      "filename": "Koleksi 34 - SR.xlsx"
+    },
+    {
+      "id": 35,
+      "name": "Koleksi 35",
+      "filename": "Koleksi 35 - SR.xlsx"
+    },
+    {
+      "id": 36,
+      "name": "Koleksi 36",
+      "filename": "Koleksi 36 - SR.xlsx"
+    },
+    {
+      "id": 37,
+      "name": "Koleksi 37",
+      "filename": "Koleksi 37 - SR.xlsx"
+    },
+    {
+      "id": 38,
+      "name": "Koleksi 38",
+      "filename": "Koleksi 38 - SR.xlsx"
+    },
+    {
+      "id": 39,
+      "name": "Koleksi 39",
+      "filename": "Koleksi 39 - SR.xlsx"
+    },
+    {
+      "id": 40,
+      "name": "Koleksi 40",
+      "filename": "Koleksi 40 - SR.xlsx"
+    },
+    {
+      "id": 41,
+      "name": "Koleksi 41",
+      "filename": "Koleksi 41 - SR.xlsx"
+    },
+    {
+      "id": 42,
+      "name": "Koleksi 42",
+      "filename": "Koleksi 42 - SR.xlsx"
+    },
+    {
+      "id": 43,
+      "name": "Koleksi 43",
+      "filename": "Koleksi 43 - SR.xlsx"
+    },
+    {
+      "id": 44,
+      "name": "Koleksi 44",
+      "filename": "Koleksi 44 - SR.xlsx"
+    },
+    {
+      "id": 45,
+      "name": "Koleksi 45",
+      "filename": "Koleksi 45 - SR.xlsx"
+    },
+    {
+      "id": 46,
+      "name": "Koleksi 46",
+      "filename": "Koleksi 46 - SR.xlsx"
+    },
+    {
+      "id": 47,
+      "name": "Koleksi 47",
+      "filename": "Koleksi 47 - SR.xlsx"
+    },
+    {
+      "id": 48,
+      "name": "Koleksi 48",
+      "filename": "Koleksi 48 - SR.xlsx"
+    },
+    {
+      "id": 49,
+      "name": "Koleksi 49",
+      "filename": "Koleksi 49 - SR.xlsx"
+    },
+    {
+      "id": 50,
+      "name": "Koleksi 50",
+      "filename": "Koleksi 50 - SR.xlsx"
+    },
+    {
+      "id": 51,
+      "name": "Koleksi 51",
+      "filename": "Koleksi 51 - SR.xlsx"
+    },
+    {
+      "id": 52,
+      "name": "Koleksi 52",
+      "filename": "Koleksi 52 - SR.xlsx"
+    },
+    {
+      "id": 53,
+      "name": "Koleksi 53",
+      "filename": "Koleksi 53 - SR.xlsx"
+    },
+    {
+      "id": 54,
+      "name": "Koleksi 54",
+      "filename": "Koleksi 54 - SR.xlsx"
+    },
+    {
+      "id": 55,
+      "name": "Koleksi 55",
+      "filename": "Koleksi 55 - SR.xlsx"
+    },
+    {
+      "id": 56,
+      "name": "Koleksi 56",
+      "filename": "Koleksi 56 - SR.xlsx"
+    },
+    {
+      "id": 57,
+      "name": "Koleksi 57",
+      "filename": "Koleksi 57 - SR.xlsx"
+    },
+    {
+      "id": 58,
+      "name": "Koleksi 58",
+      "filename": "Koleksi 58 - SR.xlsx"
+    },
+    {
+      "id": 59,
+      "name": "Koleksi 59",
+      "filename": "Koleksi 59 - SR.xlsx"
+    },
+    {
+      "id": 60,
+      "name": "Koleksi 60",
+      "filename": "Koleksi 60 - SR.xlsx"
+    },
+    {
+      "id": 61,
+      "name": "Koleksi 61",
+      "filename": "Koleksi 61 - SR.xlsx"
+    },
+    {
+      "id": 62,
+      "name": "Koleksi 62",
+      "filename": "Koleksi 62 - SR.xlsx"
+    },
+    {
+      "id": 63,
+      "name": "Koleksi 63",
+      "filename": "Koleksi 63 - SR.xlsx"
+    },
+    {
+      "id": 64,
+      "name": "Koleksi 64",
+      "filename": "Koleksi 64 - SR.xlsx"
+    },
+    {
+      "id": 65,
+      "name": "Koleksi 65",
+      "filename": "Koleksi 65 - SR.xlsx"
+    },
+    {
+      "id": 66,
+      "name": "Koleksi 66",
+      "filename": "Koleksi 66 - SR.xlsx"
+    },
+    {
+      "id": 67,
+      "name": "Koleksi 67",
+      "filename": "Koleksi 67 - SR.xlsx"
+    },
+    {
+      "id": 68,
+      "name": "Koleksi 68",
+      "filename": "Koleksi 68 - SR.xlsx"
+    },
+    {
+      "id": 69,
+      "name": "Koleksi 69",
+      "filename": "Koleksi 69 - SR.xlsx"
+    },
+    {
+      "id": 70,
+      "name": "Koleksi 70",
+      "filename": "Koleksi 70 - SR.xlsx"
+    },
+    {
+      "id": 71,
+      "name": "Koleksi 71",
+      "filename": "Koleksi 71 - SR.xlsx"
+    },
+    {
+      "id": 72,
+      "name": "Koleksi 72",
+      "filename": "Koleksi 72 - SR.xlsx"
+    },
+    {
+      "id": 73,
+      "name": "Koleksi 73",
+      "filename": "Koleksi 73 - SR.xlsx"
+    },
+    {
+      "id": 74,
+      "name": "Koleksi 74",
+      "filename": "Koleksi 74 - SR.xlsx"
+    },
+    {
+      "id": 75,
+      "name": "Koleksi 75",
+      "filename": "Koleksi 75 - SR.xlsx"
+    },
+    {
+      "id": 76,
+      "name": "Koleksi 76",
+      "filename": "Koleksi 76 - SR.xlsx"
+    },
+    {
+      "id": 77,
+      "name": "Koleksi 77",
+      "filename": "Koleksi 77 - SR.xlsx"
+    },
+    {
+      "id": 78,
+      "name": "Koleksi 78",
+      "filename": "Koleksi 78 - SR.xlsx"
+    },
+    {
+      "id": 79,
+      "name": "Koleksi 79",
+      "filename": "Koleksi 79 - SR.xlsx"
+    },
+    {
+      "id": 80,
+      "name": "Koleksi 80",
+      "filename": "Koleksi 80 - SR.xlsx"
+    },
+    {
+      "id": 81,
+      "name": "Koleksi 81",
+      "filename": "Koleksi 81 - SR.xlsx"
+    },
+    {
+      "id": 82,
+      "name": "Koleksi 82",
+      "filename": "Koleksi 82 - SR.xlsx"
+    },
+    {
+      "id": 83,
+      "name": "Koleksi 83",
+      "filename": "Koleksi 83 - SR.xlsx"
+    },
+    {
+      "id": 84,
+      "name": "Koleksi 84",
+      "filename": "Koleksi 84 - SR.xlsx"
+    },
+    {
+      "id": 85,
+      "name": "Koleksi 85",
+      "filename": "Koleksi 85 - SR.xlsx"
+    },
+    {
+      "id": 86,
+      "name": "Koleksi 86",
+      "filename": "Koleksi 86 - SR.xlsx"
+    },
+    {
+      "id": 87,
+      "name": "Koleksi 87",
+      "filename": "Koleksi 87 - SR.xlsx"
+    },
+    {
+      "id": 88,
+      "name": "Koleksi 88",
+      "filename": "Koleksi 88 - SR.xlsx"
+    },
+    {
+      "id": 89,
+      "name": "Koleksi 89",
+      "filename": "Koleksi 89 - SR.xlsx"
+    },
+    {
+      "id": 90,
+      "name": "Koleksi 90",
+      "filename": "Koleksi 90 - SR.xlsx"
+    },
+    {
+      "id": 91,
+      "name": "Koleksi 91",
+      "filename": "Koleksi 91 - SR.xlsx"
+    },
+    {
+      "id": 92,
+      "name": "Koleksi 92",
+      "filename": "Koleksi 92 - SR.xlsx"
+    },
+    {
+      "id": 93,
+      "name": "Koleksi 93",
+      "filename": "Koleksi 93 - SR.xlsx"
+    },
+    {
+      "id": 94,
+      "name": "Koleksi 94",
+      "filename": "Koleksi 94 - SR.xlsx"
+    },
+    {
+      "id": 95,
+      "name": "Koleksi 95",
+      "filename": "Koleksi 95 - SR.xlsx"
+    },
+    {
+      "id": 96,
+      "name": "Koleksi 96",
+      "filename": "Koleksi 96 - SR.xlsx"
+    },
+    {
+      "id": 97,
+      "name": "Koleksi 97",
+      "filename": "Koleksi 97 - SR.xlsx"
+    },
+    {
+      "id": 98,
+      "name": "Koleksi 98",
+      "filename": "Koleksi 98 - SR.xlsx"
+    },
+    {
+      "id": 99,
+      "name": "Koleksi 99",
+      "filename": "Koleksi 99 - SR.xlsx"
+    },
+    {
+      "id": 100,
+      "name": "Koleksi 100",
+      "filename": "Koleksi 100 - SR.xlsx"
+    },
+    {
+      "id": 101,
+      "name": "Koleksi 101",
+      "filename": "Koleksi 101 - SR.xlsx"
+    },
+    {
+      "id": 102,
+      "name": "Koleksi 102",
+      "filename": "Koleksi 102 - SR.xlsx"
+    },
+    {
+      "id": 103,
+      "name": "Koleksi 103",
+      "filename": "Koleksi 103 - SR.xlsx"
+    },
+    {
+      "id": 104,
+      "name": "Koleksi 104",
+      "filename": "Koleksi 104 - SR.xlsx"
+    },
+    {
+      "id": 105,
+      "name": "Koleksi 105",
+      "filename": "Koleksi 105 - SR.xlsx"
+    },
+    {
+      "id": 106,
+      "name": "Koleksi 106",
+      "filename": "Koleksi 106 - SR.xlsx"
+    },
+    {
+      "id": 107,
+      "name": "Koleksi 107",
+      "filename": "Koleksi 107 - SR.xlsx"
+    },
+    {
+      "id": 108,
+      "name": "Koleksi 108",
+      "filename": "Koleksi 108 - SR.xlsx"
+    },
+    {
+      "id": 109,
+      "name": "Koleksi 109",
+      "filename": "Koleksi 109 - SR.xlsx"
+    },
+    {
+      "id": 110,
+      "name": "Koleksi 110",
+      "filename": "Koleksi 110 - SR.xlsx"
+    },
+    {
+      "id": 111,
+      "name": "Koleksi 111",
+      "filename": "Koleksi 111 - SR.xlsx"
+    },
+    {
+      "id": 112,
+      "name": "Koleksi 112",
+      "filename": "Koleksi 112 - SR.xlsx"
+    },
+    {
+      "id": 113,
+      "name": "Koleksi 113",
+      "filename": "Koleksi 113 - SR.xlsx"
+    },
+    {
+      "id": 114,
+      "name": "Koleksi 114",
+      "filename": "Koleksi 114 - SR.xlsx"
+    },
+    {
+      "id": 115,
+      "name": "Koleksi 115",
+      "filename": "Koleksi 115 - SR.xlsx"
+    },
+    {
+      "id": 116,
+      "name": "Koleksi 116",
+      "filename": "Koleksi 116 - SR.xlsx"
+    },
+    {
+      "id": 117,
+      "name": "Koleksi 117",
+      "filename": "Koleksi 117 - SR.xlsx"
+    },
+    {
+      "id": 118,
+      "name": "Koleksi 118",
+      "filename": "Koleksi 118 - SR.xlsx"
+    },
+    {
+      "id": 119,
+      "name": "Koleksi 119",
+      "filename": "Koleksi 119 - SR.xlsx"
+    },
+    {
+      "id": 120,
+      "name": "Koleksi 120",
+      "filename": "Koleksi 120 - SR.xlsx"
+    },
+    {
+      "id": 121,
+      "name": "Koleksi 121",
+      "filename": "Koleksi 121 - SR.xlsx"
+    },
+    {
+      "id": 122,
+      "name": "Koleksi 122",
+      "filename": "Koleksi 122 - SR.xlsx"
+    },
+    {
+      "id": 123,
+      "name": "Koleksi 123",
+      "filename": "Koleksi 123 - SR.xlsx"
+    },
+    {
+      "id": 124,
+      "name": "Koleksi 124",
+      "filename": "Koleksi 124 - SR.xlsx"
+    },
+    {
+      "id": 125,
+      "name": "Koleksi 125",
+      "filename": "Koleksi 125 - SR.xlsx"
+    },
+    {
+      "id": 126,
+      "name": "Koleksi 126",
+      "filename": "Koleksi 126 - SR.xlsx"
+    },
+    {
+      "id": 127,
+      "name": "Koleksi 127",
+      "filename": "Koleksi 127 - SR.xlsx"
+    },
+    {
+      "id": 128,
+      "name": "Koleksi 128",
+      "filename": "Koleksi 128 - SR.xlsx"
+    },
+    {
+      "id": 129,
+      "name": "Koleksi 129",
+      "filename": "Koleksi 129 - SR.xlsx"
+    },
+    {
+      "id": 130,
+      "name": "Koleksi 130",
+      "filename": "Koleksi 130 - SR.xlsx"
+    },
+    {
+      "id": 131,
+      "name": "Koleksi 131",
+      "filename": "Koleksi 131 - SR.xlsx"
+    },
+    {
+      "id": 132,
+      "name": "Koleksi 132",
+      "filename": "Koleksi 132 - SR.xlsx"
+    },
+    {
+      "id": 133,
+      "name": "Koleksi 133",
+      "filename": "Koleksi 133 - SR.xlsx"
+    },
+    {
+      "id": 134,
+      "name": "Koleksi 134",
+      "filename": "Koleksi 134 - SR.xlsx"
+    },
+    {
+      "id": 135,
+      "name": "Koleksi 135",
+      "filename": "Koleksi 135 - SR.xlsx"
+    },
+    {
+      "id": 136,
+      "name": "Koleksi 136",
+      "filename": "Koleksi 136 - SR.xlsx"
+    },
+    {
+      "id": 137,
+      "name": "Koleksi 137",
+      "filename": "Koleksi 137 - SR.xlsx"
+    },
+    {
+      "id": 138,
+      "name": "Koleksi 138",
+      "filename": "Koleksi 138 - SR.xlsx"
+    },
+    {
+      "id": 139,
+      "name": "Koleksi 139",
+      "filename": "Koleksi 139 - SR.xlsx"
+    },
+    {
+      "id": 140,
+      "name": "Koleksi 140",
+      "filename": "Koleksi 140 - SR.xlsx"
+    },
+    {
+      "id": 141,
+      "name": "Koleksi 141",
+      "filename": "Koleksi 141 - SR.xlsx"
+    },
+    {
+      "id": 142,
+      "name": "Koleksi 142",
+      "filename": "Koleksi 142 - SR.xlsx"
+    },
+    {
+      "id": 143,
+      "name": "Koleksi 143",
+      "filename": "Koleksi 143 - SR.xlsx"
+    },
+    {
+      "id": 144,
+      "name": "Koleksi 144",
+      "filename": "Koleksi 144 - SR.xlsx"
+    },
+    {
+      "id": 145,
+      "name": "Koleksi 145",
+      "filename": "Koleksi 145 - SR.xlsx"
+    },
+    {
+      "id": 146,
+      "name": "Koleksi 146",
+      "filename": "Koleksi 146 - SR.xlsx"
+    },
+    {
+      "id": 147,
+      "name": "Koleksi 147",
+      "filename": "Koleksi 147 - SR.xlsx"
+    },
+    {
+      "id": 148,
+      "name": "Koleksi 148",
+      "filename": "Koleksi 148 - SR.xlsx"
+    },
+    {
+      "id": 149,
+      "name": "Koleksi 149",
+      "filename": "Koleksi 149 - SR.xlsx"
+    },
+    {
+      "id": 150,
+      "name": "Koleksi 150",
+      "filename": "Koleksi 150 - SR.xlsx"
+    }
+  ]
+}
