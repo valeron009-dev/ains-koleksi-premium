@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — AINS+ AutoFill</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 24px;
+    line-height: 1.7;
+    color: #1a1a2e;
+  }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  .updated { color: #6b6b7b; font-size: 14px; margin-bottom: 32px; }
+  h2 { font-size: 19px; margin-top: 32px; color: #312e81; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
+  th, td { text-align: left; padding: 10px; border: 1px solid #e5e3dc; vertical-align: top; }
+  th { background: #f7f6f1; }
+  code { background: #f3f4f6; padding: 1px 5px; border-radius: 4px; font-size: 13px; }
+  a { color: #4338ca; }
+  .contact { background: #f7f6f1; padding: 16px; border-radius: 8px; margin-top: 32px; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy — AINS+ AutoFill</h1>
+<p class="updated">Kemas kini terakhir: 14 Julai 2026</p>
+
+<p>AINS+ AutoFill ("kami", "extension ini") ialah extension Chrome yang membantu murid mengisi rekod bacaan dalam sistem AINS+ (ains.moe.gov.my) secara automatik. Dasar privasi ini menerangkan data apa yang dikumpul, bagaimana ia digunakan, dan bagaimana ia disimpan.</p>
+
+<h2>1. Data Yang Kami Kumpul</h2>
+<table>
+  <tr>
+    <th>Data</th>
+    <th>Tujuan</th>
+    <th>Di mana disimpan</th>
+  </tr>
+  <tr>
+    <td>Alamat emel</td>
+    <td>Untuk mengenal pasti status langganan (Free/Pro/Pro Plus/Pro Max) dan tebus kod aktivasi. Emel hanya diminta apabila anda memilih untuk melanggan atau menebus kod — bukan diperlukan untuk penggunaan percuma asas.</td>
+    <td>Storan tempatan pelayar (<code>chrome.storage.local</code>) pada peranti anda, dan pangkalan data backend kami (Cloudflare KV) untuk semakan status langganan.</td>
+  </tr>
+  <tr>
+    <td>Bilangan buku diproses setiap hari</td>
+    <td>Untuk kuatkuasakan had penggunaan harian mengikut pelan anda (Free: 2/hari, Pro: 10/hari, dan seterusnya).</td>
+    <td>Storan segerak pelayar (<code>chrome.storage.sync</code>) — dikongsi antara peranti yang log masuk akaun Google/Chrome yang sama.</td>
+  </tr>
+</table>
+
+<h2>2. Data Yang TIDAK Kami Kumpul</h2>
+<p>Fail Excel yang anda muat naik (senarai buku, tajuk, rumusan, dan sebagainya) diproses <strong>sepenuhnya dalam pelayar anda sendiri</strong>. Kandungan fail tersebut tidak pernah dihantar, dimuat naik, atau disimpan pada mana-mana pelayan luar. Data buku terus dimasukkan ke borang AINS+ oleh extension ini tanpa melalui perantaraan pihak ketiga.</p>
+
+<p>Kami tidak mengumpul nama, nombor telefon, alamat, atau sebarang maklumat peribadi lain selain emel yang disebut di atas.</p>
+
+<h2>3. Perkhidmatan Pihak Ketiga</h2>
+<table>
+  <tr>
+    <th>Perkhidmatan</th>
+    <th>Tujuan</th>
+  </tr>
+  <tr>
+    <td>Cloudflare (backend kami)</td>
+    <td>Menyimpan status langganan (emel + pelan) dan memproses pembayaran melalui ToyyibPay.</td>
+  </tr>
+  <tr>
+    <td>ToyyibPay</td>
+    <td>Pemproses pembayaran untuk langganan Pro/Pro Plus/Pro Max. Maklumat pembayaran (nama, emel, nombor telefon semasa transaksi) dikendalikan terus oleh ToyyibPay mengikut dasar privasi mereka sendiri — kami tidak menyimpan butiran kad atau bank anda.</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>Menyimpan fail Excel koleksi buku premium yang boleh dimuat turun oleh pengguna berbayar. Tiada data peribadi pengguna dihantar ke GitHub.</td>
+  </tr>
+</table>
+
+<h2>4. Perkongsian Data</h2>
+<p>Kami tidak menjual, menyewa, atau berkongsi data peribadi anda dengan pihak ketiga untuk tujuan pengiklanan. Emel anda hanya digunakan untuk semakan status langganan dalam sistem kami sendiri.</p>
+
+<h2>5. Kebenaran (Permissions) Yang Diminta</h2>
+<table>
+  <tr>
+    <th>Kebenaran</th>
+    <th>Sebab diperlukan</th>
+  </tr>
+  <tr>
+    <td><code>storage</code></td>
+    <td>Menyimpan emel dan status penggunaan harian pada peranti anda.</td>
+  </tr>
+  <tr>
+    <td>Akses ke <code>ains.moe.gov.my</code></td>
+    <td>Untuk mengisi borang rekod bacaan secara automatik pada portal AINS+.</td>
+  </tr>
+</table>
+
+<h2>6. Hak Anda</h2>
+<p>Anda boleh memadam data emel tersimpan pada bila-bila masa dengan membuang (uninstall) extension ini, atau menukar emel melalui butang "Tukar Emel" dalam panel extension. Untuk memohon pemadaman rekod langganan anda daripada pangkalan data kami, sila hubungi kami menggunakan maklumat di bawah.</p>
+
+<h2>7. Perubahan Kepada Dasar Ini</h2>
+<p>Kami mungkin mengemas kini dasar privasi ini dari semasa ke semasa. Sebarang perubahan akan dipaparkan pada halaman ini dengan tarikh kemas kini yang baharu.</p>
+
+<div class="contact">
+  <strong>Hubungi Kami</strong><br>
+  Jika anda mempunyai sebarang pertanyaan tentang dasar privasi ini, sila hubungi kami melalui halaman sokongan Chrome Web Store atau emel yang disediakan pada listing extension.
+</div>
+
+</body>
+</html>
