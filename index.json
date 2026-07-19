@@ -1,756 +1,1907 @@
 {
-  "updated": "2026-07-12",
-  "total": 150,
+  "updated": "2026-07-19",
+  "total": 270,
+  "categories": [
+    "Buletin",
+    "Cerpen",
+    "Jurnal",
+    "Komik",
+    "Majalah",
+    "Poster",
+    "Rencana",
+    "Risalah/Brosur",
+    "Surat Khabar"
+  ],
   "collections": [
     {
       "id": 1,
-      "name": "Koleksi 1",
-      "filename": "Koleksi 1 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 01",
+      "filename": "Koleksi_Buletin_01.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_01.xlsx"
     },
     {
       "id": 2,
-      "name": "Koleksi 2",
-      "filename": "Koleksi 2 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 02",
+      "filename": "Koleksi_Buletin_02.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_02.xlsx"
     },
     {
       "id": 3,
-      "name": "Koleksi 3",
-      "filename": "Koleksi 3 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 03",
+      "filename": "Koleksi_Buletin_03.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_03.xlsx"
     },
     {
       "id": 4,
-      "name": "Koleksi 4",
-      "filename": "Koleksi 4 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 04",
+      "filename": "Koleksi_Buletin_04.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_04.xlsx"
     },
     {
       "id": 5,
-      "name": "Koleksi 5",
-      "filename": "Koleksi 5 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 05",
+      "filename": "Koleksi_Buletin_05.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_05.xlsx"
     },
     {
       "id": 6,
-      "name": "Koleksi 6",
-      "filename": "Koleksi 6 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 06",
+      "filename": "Koleksi_Buletin_06.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_06.xlsx"
     },
     {
       "id": 7,
-      "name": "Koleksi 7",
-      "filename": "Koleksi 7 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 07",
+      "filename": "Koleksi_Buletin_07.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_07.xlsx"
     },
     {
       "id": 8,
-      "name": "Koleksi 8",
-      "filename": "Koleksi 8 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 08",
+      "filename": "Koleksi_Buletin_08.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_08.xlsx"
     },
     {
       "id": 9,
-      "name": "Koleksi 9",
-      "filename": "Koleksi 9 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 09",
+      "filename": "Koleksi_Buletin_09.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_09.xlsx"
     },
     {
       "id": 10,
-      "name": "Koleksi 10",
-      "filename": "Koleksi 10 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 10",
+      "filename": "Koleksi_Buletin_10.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_10.xlsx"
     },
     {
       "id": 11,
-      "name": "Koleksi 11",
-      "filename": "Koleksi 11 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 11",
+      "filename": "Koleksi_Buletin_11.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_11.xlsx"
     },
     {
       "id": 12,
-      "name": "Koleksi 12",
-      "filename": "Koleksi 12 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 12",
+      "filename": "Koleksi_Buletin_12.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_12.xlsx"
     },
     {
       "id": 13,
-      "name": "Koleksi 13",
-      "filename": "Koleksi 13 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 13",
+      "filename": "Koleksi_Buletin_13.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_13.xlsx"
     },
     {
       "id": 14,
-      "name": "Koleksi 14",
-      "filename": "Koleksi 14 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 14",
+      "filename": "Koleksi_Buletin_14.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_14.xlsx"
     },
     {
       "id": 15,
-      "name": "Koleksi 15",
-      "filename": "Koleksi 15 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 15",
+      "filename": "Koleksi_Buletin_15.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_15.xlsx"
     },
     {
       "id": 16,
-      "name": "Koleksi 16",
-      "filename": "Koleksi 16 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 16",
+      "filename": "Koleksi_Buletin_16.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_16.xlsx"
     },
     {
       "id": 17,
-      "name": "Koleksi 17",
-      "filename": "Koleksi 17 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 17",
+      "filename": "Koleksi_Buletin_17.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_17.xlsx"
     },
     {
       "id": 18,
-      "name": "Koleksi 18",
-      "filename": "Koleksi 18 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 18",
+      "filename": "Koleksi_Buletin_18.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_18.xlsx"
     },
     {
       "id": 19,
-      "name": "Koleksi 19",
-      "filename": "Koleksi 19 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 19",
+      "filename": "Koleksi_Buletin_19.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_19.xlsx"
     },
     {
       "id": 20,
-      "name": "Koleksi 20",
-      "filename": "Koleksi 20 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 20",
+      "filename": "Koleksi_Buletin_20.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_20.xlsx"
     },
     {
       "id": 21,
-      "name": "Koleksi 21",
-      "filename": "Koleksi 21 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 21",
+      "filename": "Koleksi_Buletin_21.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_21.xlsx"
     },
     {
       "id": 22,
-      "name": "Koleksi 22",
-      "filename": "Koleksi 22 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 22",
+      "filename": "Koleksi_Buletin_22.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_22.xlsx"
     },
     {
       "id": 23,
-      "name": "Koleksi 23",
-      "filename": "Koleksi 23 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 23",
+      "filename": "Koleksi_Buletin_23.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_23.xlsx"
     },
     {
       "id": 24,
-      "name": "Koleksi 24",
-      "filename": "Koleksi 24 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 24",
+      "filename": "Koleksi_Buletin_24.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_24.xlsx"
     },
     {
       "id": 25,
-      "name": "Koleksi 25",
-      "filename": "Koleksi 25 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 25",
+      "filename": "Koleksi_Buletin_25.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_25.xlsx"
     },
     {
       "id": 26,
-      "name": "Koleksi 26",
-      "filename": "Koleksi 26 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 26",
+      "filename": "Koleksi_Buletin_26.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_26.xlsx"
     },
     {
       "id": 27,
-      "name": "Koleksi 27",
-      "filename": "Koleksi 27 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 27",
+      "filename": "Koleksi_Buletin_27.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_27.xlsx"
     },
     {
       "id": 28,
-      "name": "Koleksi 28",
-      "filename": "Koleksi 28 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 28",
+      "filename": "Koleksi_Buletin_28.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_28.xlsx"
     },
     {
       "id": 29,
-      "name": "Koleksi 29",
-      "filename": "Koleksi 29 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 29",
+      "filename": "Koleksi_Buletin_29.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_29.xlsx"
     },
     {
       "id": 30,
-      "name": "Koleksi 30",
-      "filename": "Koleksi 30 - SR.xlsx"
+      "category": "Buletin",
+      "name": "Koleksi Buletin 30",
+      "filename": "Koleksi_Buletin_30.xlsx",
+      "path": "Collections/BULETIN/Koleksi_Buletin_30.xlsx"
     },
     {
       "id": 31,
-      "name": "Koleksi 31",
-      "filename": "Koleksi 31 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 01",
+      "filename": "Koleksi_Cerpen_01.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_01.xlsx"
     },
     {
       "id": 32,
-      "name": "Koleksi 32",
-      "filename": "Koleksi 32 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 02",
+      "filename": "Koleksi_Cerpen_02.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_02.xlsx"
     },
     {
       "id": 33,
-      "name": "Koleksi 33",
-      "filename": "Koleksi 33 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 03",
+      "filename": "Koleksi_Cerpen_03.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_03.xlsx"
     },
     {
       "id": 34,
-      "name": "Koleksi 34",
-      "filename": "Koleksi 34 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 04",
+      "filename": "Koleksi_Cerpen_04.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_04.xlsx"
     },
     {
       "id": 35,
-      "name": "Koleksi 35",
-      "filename": "Koleksi 35 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 05",
+      "filename": "Koleksi_Cerpen_05.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_05.xlsx"
     },
     {
       "id": 36,
-      "name": "Koleksi 36",
-      "filename": "Koleksi 36 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 06",
+      "filename": "Koleksi_Cerpen_06.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_06.xlsx"
     },
     {
       "id": 37,
-      "name": "Koleksi 37",
-      "filename": "Koleksi 37 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 07",
+      "filename": "Koleksi_Cerpen_07.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_07.xlsx"
     },
     {
       "id": 38,
-      "name": "Koleksi 38",
-      "filename": "Koleksi 38 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 08",
+      "filename": "Koleksi_Cerpen_08.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_08.xlsx"
     },
     {
       "id": 39,
-      "name": "Koleksi 39",
-      "filename": "Koleksi 39 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 09",
+      "filename": "Koleksi_Cerpen_09.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_09.xlsx"
     },
     {
       "id": 40,
-      "name": "Koleksi 40",
-      "filename": "Koleksi 40 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 10",
+      "filename": "Koleksi_Cerpen_10.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_10.xlsx"
     },
     {
       "id": 41,
-      "name": "Koleksi 41",
-      "filename": "Koleksi 41 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 11",
+      "filename": "Koleksi_Cerpen_11.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_11.xlsx"
     },
     {
       "id": 42,
-      "name": "Koleksi 42",
-      "filename": "Koleksi 42 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 12",
+      "filename": "Koleksi_Cerpen_12.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_12.xlsx"
     },
     {
       "id": 43,
-      "name": "Koleksi 43",
-      "filename": "Koleksi 43 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 13",
+      "filename": "Koleksi_Cerpen_13.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_13.xlsx"
     },
     {
       "id": 44,
-      "name": "Koleksi 44",
-      "filename": "Koleksi 44 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 14",
+      "filename": "Koleksi_Cerpen_14.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_14.xlsx"
     },
     {
       "id": 45,
-      "name": "Koleksi 45",
-      "filename": "Koleksi 45 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 15",
+      "filename": "Koleksi_Cerpen_15.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_15.xlsx"
     },
     {
       "id": 46,
-      "name": "Koleksi 46",
-      "filename": "Koleksi 46 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 16",
+      "filename": "Koleksi_Cerpen_16.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_16.xlsx"
     },
     {
       "id": 47,
-      "name": "Koleksi 47",
-      "filename": "Koleksi 47 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 17",
+      "filename": "Koleksi_Cerpen_17.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_17.xlsx"
     },
     {
       "id": 48,
-      "name": "Koleksi 48",
-      "filename": "Koleksi 48 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 18",
+      "filename": "Koleksi_Cerpen_18.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_18.xlsx"
     },
     {
       "id": 49,
-      "name": "Koleksi 49",
-      "filename": "Koleksi 49 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 19",
+      "filename": "Koleksi_Cerpen_19.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_19.xlsx"
     },
     {
       "id": 50,
-      "name": "Koleksi 50",
-      "filename": "Koleksi 50 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 20",
+      "filename": "Koleksi_Cerpen_20.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_20.xlsx"
     },
     {
       "id": 51,
-      "name": "Koleksi 51",
-      "filename": "Koleksi 51 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 21",
+      "filename": "Koleksi_Cerpen_21.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_21.xlsx"
     },
     {
       "id": 52,
-      "name": "Koleksi 52",
-      "filename": "Koleksi 52 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 22",
+      "filename": "Koleksi_Cerpen_22.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_22.xlsx"
     },
     {
       "id": 53,
-      "name": "Koleksi 53",
-      "filename": "Koleksi 53 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 23",
+      "filename": "Koleksi_Cerpen_23.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_23.xlsx"
     },
     {
       "id": 54,
-      "name": "Koleksi 54",
-      "filename": "Koleksi 54 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 24",
+      "filename": "Koleksi_Cerpen_24.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_24.xlsx"
     },
     {
       "id": 55,
-      "name": "Koleksi 55",
-      "filename": "Koleksi 55 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 25",
+      "filename": "Koleksi_Cerpen_25.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_25.xlsx"
     },
     {
       "id": 56,
-      "name": "Koleksi 56",
-      "filename": "Koleksi 56 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 26",
+      "filename": "Koleksi_Cerpen_26.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_26.xlsx"
     },
     {
       "id": 57,
-      "name": "Koleksi 57",
-      "filename": "Koleksi 57 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 27",
+      "filename": "Koleksi_Cerpen_27.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_27.xlsx"
     },
     {
       "id": 58,
-      "name": "Koleksi 58",
-      "filename": "Koleksi 58 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 28",
+      "filename": "Koleksi_Cerpen_28.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_28.xlsx"
     },
     {
       "id": 59,
-      "name": "Koleksi 59",
-      "filename": "Koleksi 59 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 29",
+      "filename": "Koleksi_Cerpen_29.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_29.xlsx"
     },
     {
       "id": 60,
-      "name": "Koleksi 60",
-      "filename": "Koleksi 60 - SR.xlsx"
+      "category": "Cerpen",
+      "name": "Koleksi Cerpen 30",
+      "filename": "Koleksi_Cerpen_30.xlsx",
+      "path": "Collections/CERPEN/Koleksi_Cerpen_30.xlsx"
     },
     {
       "id": 61,
-      "name": "Koleksi 61",
-      "filename": "Koleksi 61 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 01",
+      "filename": "Koleksi_Jurnal_01.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_01.xlsx"
     },
     {
       "id": 62,
-      "name": "Koleksi 62",
-      "filename": "Koleksi 62 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 02",
+      "filename": "Koleksi_Jurnal_02.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_02.xlsx"
     },
     {
       "id": 63,
-      "name": "Koleksi 63",
-      "filename": "Koleksi 63 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 03",
+      "filename": "Koleksi_Jurnal_03.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_03.xlsx"
     },
     {
       "id": 64,
-      "name": "Koleksi 64",
-      "filename": "Koleksi 64 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 04",
+      "filename": "Koleksi_Jurnal_04.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_04.xlsx"
     },
     {
       "id": 65,
-      "name": "Koleksi 65",
-      "filename": "Koleksi 65 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 05",
+      "filename": "Koleksi_Jurnal_05.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_05.xlsx"
     },
     {
       "id": 66,
-      "name": "Koleksi 66",
-      "filename": "Koleksi 66 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 06",
+      "filename": "Koleksi_Jurnal_06.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_06.xlsx"
     },
     {
       "id": 67,
-      "name": "Koleksi 67",
-      "filename": "Koleksi 67 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 07",
+      "filename": "Koleksi_Jurnal_07.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_07.xlsx"
     },
     {
       "id": 68,
-      "name": "Koleksi 68",
-      "filename": "Koleksi 68 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 08",
+      "filename": "Koleksi_Jurnal_08.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_08.xlsx"
     },
     {
       "id": 69,
-      "name": "Koleksi 69",
-      "filename": "Koleksi 69 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 09",
+      "filename": "Koleksi_Jurnal_09.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_09.xlsx"
     },
     {
       "id": 70,
-      "name": "Koleksi 70",
-      "filename": "Koleksi 70 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 10",
+      "filename": "Koleksi_Jurnal_10.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_10.xlsx"
     },
     {
       "id": 71,
-      "name": "Koleksi 71",
-      "filename": "Koleksi 71 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 11",
+      "filename": "Koleksi_Jurnal_11.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_11.xlsx"
     },
     {
       "id": 72,
-      "name": "Koleksi 72",
-      "filename": "Koleksi 72 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 12",
+      "filename": "Koleksi_Jurnal_12.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_12.xlsx"
     },
     {
       "id": 73,
-      "name": "Koleksi 73",
-      "filename": "Koleksi 73 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 13",
+      "filename": "Koleksi_Jurnal_13.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_13.xlsx"
     },
     {
       "id": 74,
-      "name": "Koleksi 74",
-      "filename": "Koleksi 74 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 14",
+      "filename": "Koleksi_Jurnal_14.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_14.xlsx"
     },
     {
       "id": 75,
-      "name": "Koleksi 75",
-      "filename": "Koleksi 75 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 15",
+      "filename": "Koleksi_Jurnal_15.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_15.xlsx"
     },
     {
       "id": 76,
-      "name": "Koleksi 76",
-      "filename": "Koleksi 76 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 16",
+      "filename": "Koleksi_Jurnal_16.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_16.xlsx"
     },
     {
       "id": 77,
-      "name": "Koleksi 77",
-      "filename": "Koleksi 77 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 17",
+      "filename": "Koleksi_Jurnal_17.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_17.xlsx"
     },
     {
       "id": 78,
-      "name": "Koleksi 78",
-      "filename": "Koleksi 78 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 18",
+      "filename": "Koleksi_Jurnal_18.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_18.xlsx"
     },
     {
       "id": 79,
-      "name": "Koleksi 79",
-      "filename": "Koleksi 79 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 19",
+      "filename": "Koleksi_Jurnal_19.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_19.xlsx"
     },
     {
       "id": 80,
-      "name": "Koleksi 80",
-      "filename": "Koleksi 80 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 20",
+      "filename": "Koleksi_Jurnal_20.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_20.xlsx"
     },
     {
       "id": 81,
-      "name": "Koleksi 81",
-      "filename": "Koleksi 81 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 21",
+      "filename": "Koleksi_Jurnal_21.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_21.xlsx"
     },
     {
       "id": 82,
-      "name": "Koleksi 82",
-      "filename": "Koleksi 82 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 22",
+      "filename": "Koleksi_Jurnal_22.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_22.xlsx"
     },
     {
       "id": 83,
-      "name": "Koleksi 83",
-      "filename": "Koleksi 83 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 23",
+      "filename": "Koleksi_Jurnal_23.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_23.xlsx"
     },
     {
       "id": 84,
-      "name": "Koleksi 84",
-      "filename": "Koleksi 84 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 24",
+      "filename": "Koleksi_Jurnal_24.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_24.xlsx"
     },
     {
       "id": 85,
-      "name": "Koleksi 85",
-      "filename": "Koleksi 85 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 25",
+      "filename": "Koleksi_Jurnal_25.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_25.xlsx"
     },
     {
       "id": 86,
-      "name": "Koleksi 86",
-      "filename": "Koleksi 86 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 26",
+      "filename": "Koleksi_Jurnal_26.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_26.xlsx"
     },
     {
       "id": 87,
-      "name": "Koleksi 87",
-      "filename": "Koleksi 87 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 27",
+      "filename": "Koleksi_Jurnal_27.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_27.xlsx"
     },
     {
       "id": 88,
-      "name": "Koleksi 88",
-      "filename": "Koleksi 88 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 28",
+      "filename": "Koleksi_Jurnal_28.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_28.xlsx"
     },
     {
       "id": 89,
-      "name": "Koleksi 89",
-      "filename": "Koleksi 89 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 29",
+      "filename": "Koleksi_Jurnal_29.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_29.xlsx"
     },
     {
       "id": 90,
-      "name": "Koleksi 90",
-      "filename": "Koleksi 90 - SR.xlsx"
+      "category": "Jurnal",
+      "name": "Koleksi Jurnal 30",
+      "filename": "Koleksi_Jurnal_30.xlsx",
+      "path": "Collections/JURNAL/Koleksi_Jurnal_30.xlsx"
     },
     {
       "id": 91,
-      "name": "Koleksi 91",
-      "filename": "Koleksi 91 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 01",
+      "filename": "Koleksi_Komik_01.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_01.xlsx"
     },
     {
       "id": 92,
-      "name": "Koleksi 92",
-      "filename": "Koleksi 92 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 02",
+      "filename": "Koleksi_Komik_02.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_02.xlsx"
     },
     {
       "id": 93,
-      "name": "Koleksi 93",
-      "filename": "Koleksi 93 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 03",
+      "filename": "Koleksi_Komik_03.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_03.xlsx"
     },
     {
       "id": 94,
-      "name": "Koleksi 94",
-      "filename": "Koleksi 94 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 04",
+      "filename": "Koleksi_Komik_04.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_04.xlsx"
     },
     {
       "id": 95,
-      "name": "Koleksi 95",
-      "filename": "Koleksi 95 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 05",
+      "filename": "Koleksi_Komik_05.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_05.xlsx"
     },
     {
       "id": 96,
-      "name": "Koleksi 96",
-      "filename": "Koleksi 96 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 06",
+      "filename": "Koleksi_Komik_06.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_06.xlsx"
     },
     {
       "id": 97,
-      "name": "Koleksi 97",
-      "filename": "Koleksi 97 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 07",
+      "filename": "Koleksi_Komik_07.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_07.xlsx"
     },
     {
       "id": 98,
-      "name": "Koleksi 98",
-      "filename": "Koleksi 98 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 08",
+      "filename": "Koleksi_Komik_08.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_08.xlsx"
     },
     {
       "id": 99,
-      "name": "Koleksi 99",
-      "filename": "Koleksi 99 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 09",
+      "filename": "Koleksi_Komik_09.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_09.xlsx"
     },
     {
       "id": 100,
-      "name": "Koleksi 100",
-      "filename": "Koleksi 100 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 10",
+      "filename": "Koleksi_Komik_10.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_10.xlsx"
     },
     {
       "id": 101,
-      "name": "Koleksi 101",
-      "filename": "Koleksi 101 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 11",
+      "filename": "Koleksi_Komik_11.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_11.xlsx"
     },
     {
       "id": 102,
-      "name": "Koleksi 102",
-      "filename": "Koleksi 102 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 12",
+      "filename": "Koleksi_Komik_12.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_12.xlsx"
     },
     {
       "id": 103,
-      "name": "Koleksi 103",
-      "filename": "Koleksi 103 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 13",
+      "filename": "Koleksi_Komik_13.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_13.xlsx"
     },
     {
       "id": 104,
-      "name": "Koleksi 104",
-      "filename": "Koleksi 104 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 14",
+      "filename": "Koleksi_Komik_14.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_14.xlsx"
     },
     {
       "id": 105,
-      "name": "Koleksi 105",
-      "filename": "Koleksi 105 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 15",
+      "filename": "Koleksi_Komik_15.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_15.xlsx"
     },
     {
       "id": 106,
-      "name": "Koleksi 106",
-      "filename": "Koleksi 106 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 16",
+      "filename": "Koleksi_Komik_16.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_16.xlsx"
     },
     {
       "id": 107,
-      "name": "Koleksi 107",
-      "filename": "Koleksi 107 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 17",
+      "filename": "Koleksi_Komik_17.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_17.xlsx"
     },
     {
       "id": 108,
-      "name": "Koleksi 108",
-      "filename": "Koleksi 108 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 18",
+      "filename": "Koleksi_Komik_18.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_18.xlsx"
     },
     {
       "id": 109,
-      "name": "Koleksi 109",
-      "filename": "Koleksi 109 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 19",
+      "filename": "Koleksi_Komik_19.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_19.xlsx"
     },
     {
       "id": 110,
-      "name": "Koleksi 110",
-      "filename": "Koleksi 110 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 20",
+      "filename": "Koleksi_Komik_20.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_20.xlsx"
     },
     {
       "id": 111,
-      "name": "Koleksi 111",
-      "filename": "Koleksi 111 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 21",
+      "filename": "Koleksi_Komik_21.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_21.xlsx"
     },
     {
       "id": 112,
-      "name": "Koleksi 112",
-      "filename": "Koleksi 112 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 22",
+      "filename": "Koleksi_Komik_22.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_22.xlsx"
     },
     {
       "id": 113,
-      "name": "Koleksi 113",
-      "filename": "Koleksi 113 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 23",
+      "filename": "Koleksi_Komik_23.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_23.xlsx"
     },
     {
       "id": 114,
-      "name": "Koleksi 114",
-      "filename": "Koleksi 114 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 24",
+      "filename": "Koleksi_Komik_24.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_24.xlsx"
     },
     {
       "id": 115,
-      "name": "Koleksi 115",
-      "filename": "Koleksi 115 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 25",
+      "filename": "Koleksi_Komik_25.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_25.xlsx"
     },
     {
       "id": 116,
-      "name": "Koleksi 116",
-      "filename": "Koleksi 116 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 26",
+      "filename": "Koleksi_Komik_26.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_26.xlsx"
     },
     {
       "id": 117,
-      "name": "Koleksi 117",
-      "filename": "Koleksi 117 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 27",
+      "filename": "Koleksi_Komik_27.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_27.xlsx"
     },
     {
       "id": 118,
-      "name": "Koleksi 118",
-      "filename": "Koleksi 118 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 28",
+      "filename": "Koleksi_Komik_28.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_28.xlsx"
     },
     {
       "id": 119,
-      "name": "Koleksi 119",
-      "filename": "Koleksi 119 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 29",
+      "filename": "Koleksi_Komik_29.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_29.xlsx"
     },
     {
       "id": 120,
-      "name": "Koleksi 120",
-      "filename": "Koleksi 120 - SR.xlsx"
+      "category": "Komik",
+      "name": "Koleksi Komik 30",
+      "filename": "Koleksi_Komik_30.xlsx",
+      "path": "Collections/KOMIK/Koleksi_Komik_30.xlsx"
     },
     {
       "id": 121,
-      "name": "Koleksi 121",
-      "filename": "Koleksi 121 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 01",
+      "filename": "Koleksi_Majalah_01.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_01.xlsx"
     },
     {
       "id": 122,
-      "name": "Koleksi 122",
-      "filename": "Koleksi 122 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 02",
+      "filename": "Koleksi_Majalah_02.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_02.xlsx"
     },
     {
       "id": 123,
-      "name": "Koleksi 123",
-      "filename": "Koleksi 123 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 03",
+      "filename": "Koleksi_Majalah_03.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_03.xlsx"
     },
     {
       "id": 124,
-      "name": "Koleksi 124",
-      "filename": "Koleksi 124 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 04",
+      "filename": "Koleksi_Majalah_04.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_04.xlsx"
     },
     {
       "id": 125,
-      "name": "Koleksi 125",
-      "filename": "Koleksi 125 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 05",
+      "filename": "Koleksi_Majalah_05.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_05.xlsx"
     },
     {
       "id": 126,
-      "name": "Koleksi 126",
-      "filename": "Koleksi 126 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 06",
+      "filename": "Koleksi_Majalah_06.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_06.xlsx"
     },
     {
       "id": 127,
-      "name": "Koleksi 127",
-      "filename": "Koleksi 127 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 07",
+      "filename": "Koleksi_Majalah_07.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_07.xlsx"
     },
     {
       "id": 128,
-      "name": "Koleksi 128",
-      "filename": "Koleksi 128 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 08",
+      "filename": "Koleksi_Majalah_08.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_08.xlsx"
     },
     {
       "id": 129,
-      "name": "Koleksi 129",
-      "filename": "Koleksi 129 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 09",
+      "filename": "Koleksi_Majalah_09.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_09.xlsx"
     },
     {
       "id": 130,
-      "name": "Koleksi 130",
-      "filename": "Koleksi 130 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 10",
+      "filename": "Koleksi_Majalah_10.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_10.xlsx"
     },
     {
       "id": 131,
-      "name": "Koleksi 131",
-      "filename": "Koleksi 131 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 11",
+      "filename": "Koleksi_Majalah_11.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_11.xlsx"
     },
     {
       "id": 132,
-      "name": "Koleksi 132",
-      "filename": "Koleksi 132 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 12",
+      "filename": "Koleksi_Majalah_12.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_12.xlsx"
     },
     {
       "id": 133,
-      "name": "Koleksi 133",
-      "filename": "Koleksi 133 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 13",
+      "filename": "Koleksi_Majalah_13.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_13.xlsx"
     },
     {
       "id": 134,
-      "name": "Koleksi 134",
-      "filename": "Koleksi 134 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 14",
+      "filename": "Koleksi_Majalah_14.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_14.xlsx"
     },
     {
       "id": 135,
-      "name": "Koleksi 135",
-      "filename": "Koleksi 135 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 15",
+      "filename": "Koleksi_Majalah_15.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_15.xlsx"
     },
     {
       "id": 136,
-      "name": "Koleksi 136",
-      "filename": "Koleksi 136 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 16",
+      "filename": "Koleksi_Majalah_16.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_16.xlsx"
     },
     {
       "id": 137,
-      "name": "Koleksi 137",
-      "filename": "Koleksi 137 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 17",
+      "filename": "Koleksi_Majalah_17.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_17.xlsx"
     },
     {
       "id": 138,
-      "name": "Koleksi 138",
-      "filename": "Koleksi 138 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 18",
+      "filename": "Koleksi_Majalah_18.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_18.xlsx"
     },
     {
       "id": 139,
-      "name": "Koleksi 139",
-      "filename": "Koleksi 139 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 19",
+      "filename": "Koleksi_Majalah_19.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_19.xlsx"
     },
     {
       "id": 140,
-      "name": "Koleksi 140",
-      "filename": "Koleksi 140 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 20",
+      "filename": "Koleksi_Majalah_20.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_20.xlsx"
     },
     {
       "id": 141,
-      "name": "Koleksi 141",
-      "filename": "Koleksi 141 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 21",
+      "filename": "Koleksi_Majalah_21.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_21.xlsx"
     },
     {
       "id": 142,
-      "name": "Koleksi 142",
-      "filename": "Koleksi 142 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 22",
+      "filename": "Koleksi_Majalah_22.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_22.xlsx"
     },
     {
       "id": 143,
-      "name": "Koleksi 143",
-      "filename": "Koleksi 143 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 23",
+      "filename": "Koleksi_Majalah_23.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_23.xlsx"
     },
     {
       "id": 144,
-      "name": "Koleksi 144",
-      "filename": "Koleksi 144 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 24",
+      "filename": "Koleksi_Majalah_24.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_24.xlsx"
     },
     {
       "id": 145,
-      "name": "Koleksi 145",
-      "filename": "Koleksi 145 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 25",
+      "filename": "Koleksi_Majalah_25.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_25.xlsx"
     },
     {
       "id": 146,
-      "name": "Koleksi 146",
-      "filename": "Koleksi 146 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 26",
+      "filename": "Koleksi_Majalah_26.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_26.xlsx"
     },
     {
       "id": 147,
-      "name": "Koleksi 147",
-      "filename": "Koleksi 147 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 27",
+      "filename": "Koleksi_Majalah_27.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_27.xlsx"
     },
     {
       "id": 148,
-      "name": "Koleksi 148",
-      "filename": "Koleksi 148 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 28",
+      "filename": "Koleksi_Majalah_28.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_28.xlsx"
     },
     {
       "id": 149,
-      "name": "Koleksi 149",
-      "filename": "Koleksi 149 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 29",
+      "filename": "Koleksi_Majalah_29.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_29.xlsx"
     },
     {
       "id": 150,
-      "name": "Koleksi 150",
-      "filename": "Koleksi 150 - SR.xlsx"
+      "category": "Majalah",
+      "name": "Koleksi Majalah 30",
+      "filename": "Koleksi_Majalah_30.xlsx",
+      "path": "Collections/MAJALAH/Koleksi_Majalah_30.xlsx"
+    },
+    {
+      "id": 151,
+      "category": "Poster",
+      "name": "Koleksi Poster 01",
+      "filename": "Koleksi_Poster_01.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_01.xlsx"
+    },
+    {
+      "id": 152,
+      "category": "Poster",
+      "name": "Koleksi Poster 02",
+      "filename": "Koleksi_Poster_02.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_02.xlsx"
+    },
+    {
+      "id": 153,
+      "category": "Poster",
+      "name": "Koleksi Poster 03",
+      "filename": "Koleksi_Poster_03.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_03.xlsx"
+    },
+    {
+      "id": 154,
+      "category": "Poster",
+      "name": "Koleksi Poster 04",
+      "filename": "Koleksi_Poster_04.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_04.xlsx"
+    },
+    {
+      "id": 155,
+      "category": "Poster",
+      "name": "Koleksi Poster 05",
+      "filename": "Koleksi_Poster_05.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_05.xlsx"
+    },
+    {
+      "id": 156,
+      "category": "Poster",
+      "name": "Koleksi Poster 06",
+      "filename": "Koleksi_Poster_06.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_06.xlsx"
+    },
+    {
+      "id": 157,
+      "category": "Poster",
+      "name": "Koleksi Poster 07",
+      "filename": "Koleksi_Poster_07.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_07.xlsx"
+    },
+    {
+      "id": 158,
+      "category": "Poster",
+      "name": "Koleksi Poster 08",
+      "filename": "Koleksi_Poster_08.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_08.xlsx"
+    },
+    {
+      "id": 159,
+      "category": "Poster",
+      "name": "Koleksi Poster 09",
+      "filename": "Koleksi_Poster_09.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_09.xlsx"
+    },
+    {
+      "id": 160,
+      "category": "Poster",
+      "name": "Koleksi Poster 10",
+      "filename": "Koleksi_Poster_10.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_10.xlsx"
+    },
+    {
+      "id": 161,
+      "category": "Poster",
+      "name": "Koleksi Poster 11",
+      "filename": "Koleksi_Poster_11.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_11.xlsx"
+    },
+    {
+      "id": 162,
+      "category": "Poster",
+      "name": "Koleksi Poster 12",
+      "filename": "Koleksi_Poster_12.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_12.xlsx"
+    },
+    {
+      "id": 163,
+      "category": "Poster",
+      "name": "Koleksi Poster 13",
+      "filename": "Koleksi_Poster_13.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_13.xlsx"
+    },
+    {
+      "id": 164,
+      "category": "Poster",
+      "name": "Koleksi Poster 14",
+      "filename": "Koleksi_Poster_14.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_14.xlsx"
+    },
+    {
+      "id": 165,
+      "category": "Poster",
+      "name": "Koleksi Poster 15",
+      "filename": "Koleksi_Poster_15.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_15.xlsx"
+    },
+    {
+      "id": 166,
+      "category": "Poster",
+      "name": "Koleksi Poster 16",
+      "filename": "Koleksi_Poster_16.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_16.xlsx"
+    },
+    {
+      "id": 167,
+      "category": "Poster",
+      "name": "Koleksi Poster 17",
+      "filename": "Koleksi_Poster_17.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_17.xlsx"
+    },
+    {
+      "id": 168,
+      "category": "Poster",
+      "name": "Koleksi Poster 18",
+      "filename": "Koleksi_Poster_18.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_18.xlsx"
+    },
+    {
+      "id": 169,
+      "category": "Poster",
+      "name": "Koleksi Poster 19",
+      "filename": "Koleksi_Poster_19.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_19.xlsx"
+    },
+    {
+      "id": 170,
+      "category": "Poster",
+      "name": "Koleksi Poster 20",
+      "filename": "Koleksi_Poster_20.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_20.xlsx"
+    },
+    {
+      "id": 171,
+      "category": "Poster",
+      "name": "Koleksi Poster 21",
+      "filename": "Koleksi_Poster_21.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_21.xlsx"
+    },
+    {
+      "id": 172,
+      "category": "Poster",
+      "name": "Koleksi Poster 22",
+      "filename": "Koleksi_Poster_22.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_22.xlsx"
+    },
+    {
+      "id": 173,
+      "category": "Poster",
+      "name": "Koleksi Poster 23",
+      "filename": "Koleksi_Poster_23.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_23.xlsx"
+    },
+    {
+      "id": 174,
+      "category": "Poster",
+      "name": "Koleksi Poster 24",
+      "filename": "Koleksi_Poster_24.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_24.xlsx"
+    },
+    {
+      "id": 175,
+      "category": "Poster",
+      "name": "Koleksi Poster 25",
+      "filename": "Koleksi_Poster_25.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_25.xlsx"
+    },
+    {
+      "id": 176,
+      "category": "Poster",
+      "name": "Koleksi Poster 26",
+      "filename": "Koleksi_Poster_26.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_26.xlsx"
+    },
+    {
+      "id": 177,
+      "category": "Poster",
+      "name": "Koleksi Poster 27",
+      "filename": "Koleksi_Poster_27.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_27.xlsx"
+    },
+    {
+      "id": 178,
+      "category": "Poster",
+      "name": "Koleksi Poster 28",
+      "filename": "Koleksi_Poster_28.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_28.xlsx"
+    },
+    {
+      "id": 179,
+      "category": "Poster",
+      "name": "Koleksi Poster 29",
+      "filename": "Koleksi_Poster_29.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_29.xlsx"
+    },
+    {
+      "id": 180,
+      "category": "Poster",
+      "name": "Koleksi Poster 30",
+      "filename": "Koleksi_Poster_30.xlsx",
+      "path": "Collections/POSTER/Koleksi_Poster_30.xlsx"
+    },
+    {
+      "id": 181,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 01",
+      "filename": "Koleksi_Rencana_01.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_01.xlsx"
+    },
+    {
+      "id": 182,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 02",
+      "filename": "Koleksi_Rencana_02.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_02.xlsx"
+    },
+    {
+      "id": 183,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 03",
+      "filename": "Koleksi_Rencana_03.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_03.xlsx"
+    },
+    {
+      "id": 184,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 04",
+      "filename": "Koleksi_Rencana_04.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_04.xlsx"
+    },
+    {
+      "id": 185,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 05",
+      "filename": "Koleksi_Rencana_05.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_05.xlsx"
+    },
+    {
+      "id": 186,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 06",
+      "filename": "Koleksi_Rencana_06.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_06.xlsx"
+    },
+    {
+      "id": 187,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 07",
+      "filename": "Koleksi_Rencana_07.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_07.xlsx"
+    },
+    {
+      "id": 188,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 08",
+      "filename": "Koleksi_Rencana_08.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_08.xlsx"
+    },
+    {
+      "id": 189,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 09",
+      "filename": "Koleksi_Rencana_09.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_09.xlsx"
+    },
+    {
+      "id": 190,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 10",
+      "filename": "Koleksi_Rencana_10.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_10.xlsx"
+    },
+    {
+      "id": 191,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 11",
+      "filename": "Koleksi_Rencana_11.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_11.xlsx"
+    },
+    {
+      "id": 192,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 12",
+      "filename": "Koleksi_Rencana_12.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_12.xlsx"
+    },
+    {
+      "id": 193,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 13",
+      "filename": "Koleksi_Rencana_13.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_13.xlsx"
+    },
+    {
+      "id": 194,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 14",
+      "filename": "Koleksi_Rencana_14.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_14.xlsx"
+    },
+    {
+      "id": 195,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 15",
+      "filename": "Koleksi_Rencana_15.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_15.xlsx"
+    },
+    {
+      "id": 196,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 16",
+      "filename": "Koleksi_Rencana_16.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_16.xlsx"
+    },
+    {
+      "id": 197,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 17",
+      "filename": "Koleksi_Rencana_17.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_17.xlsx"
+    },
+    {
+      "id": 198,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 18",
+      "filename": "Koleksi_Rencana_18.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_18.xlsx"
+    },
+    {
+      "id": 199,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 19",
+      "filename": "Koleksi_Rencana_19.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_19.xlsx"
+    },
+    {
+      "id": 200,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 20",
+      "filename": "Koleksi_Rencana_20.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_20.xlsx"
+    },
+    {
+      "id": 201,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 21",
+      "filename": "Koleksi_Rencana_21.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_21.xlsx"
+    },
+    {
+      "id": 202,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 22",
+      "filename": "Koleksi_Rencana_22.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_22.xlsx"
+    },
+    {
+      "id": 203,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 23",
+      "filename": "Koleksi_Rencana_23.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_23.xlsx"
+    },
+    {
+      "id": 204,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 24",
+      "filename": "Koleksi_Rencana_24.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_24.xlsx"
+    },
+    {
+      "id": 205,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 25",
+      "filename": "Koleksi_Rencana_25.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_25.xlsx"
+    },
+    {
+      "id": 206,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 26",
+      "filename": "Koleksi_Rencana_26.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_26.xlsx"
+    },
+    {
+      "id": 207,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 27",
+      "filename": "Koleksi_Rencana_27.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_27.xlsx"
+    },
+    {
+      "id": 208,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 28",
+      "filename": "Koleksi_Rencana_28.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_28.xlsx"
+    },
+    {
+      "id": 209,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 29",
+      "filename": "Koleksi_Rencana_29.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_29.xlsx"
+    },
+    {
+      "id": 210,
+      "category": "Rencana",
+      "name": "Koleksi Rencana 30",
+      "filename": "Koleksi_Rencana_30.xlsx",
+      "path": "Collections/RENCANA/Koleksi_Rencana_30.xlsx"
+    },
+    {
+      "id": 211,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 01",
+      "filename": "Koleksi_Risalah_01.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_01.xlsx"
+    },
+    {
+      "id": 212,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 02",
+      "filename": "Koleksi_Risalah_02.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_02.xlsx"
+    },
+    {
+      "id": 213,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 03",
+      "filename": "Koleksi_Risalah_03.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_03.xlsx"
+    },
+    {
+      "id": 214,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 04",
+      "filename": "Koleksi_Risalah_04.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_04.xlsx"
+    },
+    {
+      "id": 215,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 05",
+      "filename": "Koleksi_Risalah_05.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_05.xlsx"
+    },
+    {
+      "id": 216,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 06",
+      "filename": "Koleksi_Risalah_06.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_06.xlsx"
+    },
+    {
+      "id": 217,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 07",
+      "filename": "Koleksi_Risalah_07.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_07.xlsx"
+    },
+    {
+      "id": 218,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 08",
+      "filename": "Koleksi_Risalah_08.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_08.xlsx"
+    },
+    {
+      "id": 219,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 09",
+      "filename": "Koleksi_Risalah_09.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_09.xlsx"
+    },
+    {
+      "id": 220,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 10",
+      "filename": "Koleksi_Risalah_10.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_10.xlsx"
+    },
+    {
+      "id": 221,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 11",
+      "filename": "Koleksi_Risalah_11.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_11.xlsx"
+    },
+    {
+      "id": 222,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 12",
+      "filename": "Koleksi_Risalah_12.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_12.xlsx"
+    },
+    {
+      "id": 223,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 13",
+      "filename": "Koleksi_Risalah_13.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_13.xlsx"
+    },
+    {
+      "id": 224,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 14",
+      "filename": "Koleksi_Risalah_14.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_14.xlsx"
+    },
+    {
+      "id": 225,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 15",
+      "filename": "Koleksi_Risalah_15.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_15.xlsx"
+    },
+    {
+      "id": 226,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 16",
+      "filename": "Koleksi_Risalah_16.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_16.xlsx"
+    },
+    {
+      "id": 227,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 17",
+      "filename": "Koleksi_Risalah_17.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_17.xlsx"
+    },
+    {
+      "id": 228,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 18",
+      "filename": "Koleksi_Risalah_18.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_18.xlsx"
+    },
+    {
+      "id": 229,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 19",
+      "filename": "Koleksi_Risalah_19.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_19.xlsx"
+    },
+    {
+      "id": 230,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 20",
+      "filename": "Koleksi_Risalah_20.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_20.xlsx"
+    },
+    {
+      "id": 231,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 21",
+      "filename": "Koleksi_Risalah_21.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_21.xlsx"
+    },
+    {
+      "id": 232,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 22",
+      "filename": "Koleksi_Risalah_22.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_22.xlsx"
+    },
+    {
+      "id": 233,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 23",
+      "filename": "Koleksi_Risalah_23.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_23.xlsx"
+    },
+    {
+      "id": 234,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 24",
+      "filename": "Koleksi_Risalah_24.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_24.xlsx"
+    },
+    {
+      "id": 235,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 25",
+      "filename": "Koleksi_Risalah_25.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_25.xlsx"
+    },
+    {
+      "id": 236,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 26",
+      "filename": "Koleksi_Risalah_26.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_26.xlsx"
+    },
+    {
+      "id": 237,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 27",
+      "filename": "Koleksi_Risalah_27.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_27.xlsx"
+    },
+    {
+      "id": 238,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 28",
+      "filename": "Koleksi_Risalah_28.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_28.xlsx"
+    },
+    {
+      "id": 239,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 29",
+      "filename": "Koleksi_Risalah_29.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_29.xlsx"
+    },
+    {
+      "id": 240,
+      "category": "Risalah/Brosur",
+      "name": "Koleksi Risalah 30",
+      "filename": "Koleksi_Risalah_30.xlsx",
+      "path": "Collections/RISALAH/Koleksi_Risalah_30.xlsx"
+    },
+    {
+      "id": 241,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 01",
+      "filename": "Koleksi_Surat_Khabar_01.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_01.xlsx"
+    },
+    {
+      "id": 242,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 02",
+      "filename": "Koleksi_Surat_Khabar_02.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_02.xlsx"
+    },
+    {
+      "id": 243,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 03",
+      "filename": "Koleksi_Surat_Khabar_03.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_03.xlsx"
+    },
+    {
+      "id": 244,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 04",
+      "filename": "Koleksi_Surat_Khabar_04.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_04.xlsx"
+    },
+    {
+      "id": 245,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 05",
+      "filename": "Koleksi_Surat_Khabar_05.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_05.xlsx"
+    },
+    {
+      "id": 246,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 06",
+      "filename": "Koleksi_Surat_Khabar_06.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_06.xlsx"
+    },
+    {
+      "id": 247,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 07",
+      "filename": "Koleksi_Surat_Khabar_07.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_07.xlsx"
+    },
+    {
+      "id": 248,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 08",
+      "filename": "Koleksi_Surat_Khabar_08.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_08.xlsx"
+    },
+    {
+      "id": 249,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 09",
+      "filename": "Koleksi_Surat_Khabar_09.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_09.xlsx"
+    },
+    {
+      "id": 250,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 10",
+      "filename": "Koleksi_Surat_Khabar_10.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_10.xlsx"
+    },
+    {
+      "id": 251,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 11",
+      "filename": "Koleksi_Surat_Khabar_11.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_11.xlsx"
+    },
+    {
+      "id": 252,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 12",
+      "filename": "Koleksi_Surat_Khabar_12.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_12.xlsx"
+    },
+    {
+      "id": 253,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 13",
+      "filename": "Koleksi_Surat_Khabar_13.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_13.xlsx"
+    },
+    {
+      "id": 254,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 14",
+      "filename": "Koleksi_Surat_Khabar_14.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_14.xlsx"
+    },
+    {
+      "id": 255,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 15",
+      "filename": "Koleksi_Surat_Khabar_15.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_15.xlsx"
+    },
+    {
+      "id": 256,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 16",
+      "filename": "Koleksi_Surat_Khabar_16.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_16.xlsx"
+    },
+    {
+      "id": 257,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 17",
+      "filename": "Koleksi_Surat_Khabar_17.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_17.xlsx"
+    },
+    {
+      "id": 258,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 18",
+      "filename": "Koleksi_Surat_Khabar_18.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_18.xlsx"
+    },
+    {
+      "id": 259,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 19",
+      "filename": "Koleksi_Surat_Khabar_19.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_19.xlsx"
+    },
+    {
+      "id": 260,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 20",
+      "filename": "Koleksi_Surat_Khabar_20.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_20.xlsx"
+    },
+    {
+      "id": 261,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 21",
+      "filename": "Koleksi_Surat_Khabar_21.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_21.xlsx"
+    },
+    {
+      "id": 262,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 22",
+      "filename": "Koleksi_Surat_Khabar_22.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_22.xlsx"
+    },
+    {
+      "id": 263,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 23",
+      "filename": "Koleksi_Surat_Khabar_23.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_23.xlsx"
+    },
+    {
+      "id": 264,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 24",
+      "filename": "Koleksi_Surat_Khabar_24.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_24.xlsx"
+    },
+    {
+      "id": 265,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 25",
+      "filename": "Koleksi_Surat_Khabar_25.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_25.xlsx"
+    },
+    {
+      "id": 266,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 26",
+      "filename": "Koleksi_Surat_Khabar_26.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_26.xlsx"
+    },
+    {
+      "id": 267,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 27",
+      "filename": "Koleksi_Surat_Khabar_27.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_27.xlsx"
+    },
+    {
+      "id": 268,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 28",
+      "filename": "Koleksi_Surat_Khabar_28.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_28.xlsx"
+    },
+    {
+      "id": 269,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 29",
+      "filename": "Koleksi_Surat_Khabar_29.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_29.xlsx"
+    },
+    {
+      "id": 270,
+      "category": "Surat Khabar",
+      "name": "Koleksi Surat Khabar 30",
+      "filename": "Koleksi_Surat_Khabar_30.xlsx",
+      "path": "Collections/SURAT KHABAR/Koleksi_Surat_Khabar_30.xlsx"
     }
   ]
 }
